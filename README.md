@@ -9,7 +9,6 @@ This is my blog based on jekyll. And I change the style and interactive. If you 
 
 博客访问地址：[点击这里](http://KnightCheng.github.io)
 
-**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
 
 # Tip
